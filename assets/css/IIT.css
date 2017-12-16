@@ -1,0 +1,165 @@
+/*
+ * Custom CSS Styling for IIT presentations
+ */
+
+.reveal {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 35px;
+  font-weight: normal;
+  color: #222;
+}
+
+#gp-logo img {
+    max-height: 6em;
+    max-width: none;
+}
+
+.reveal table.invisible th,
+.reveal table.invisible td {
+    border-bottom: 0px;
+    padding: 0em 0.5em 0em 0.5em;
+}
+
+.reveal table.invisible small {
+    color: grey;
+}
+
+.reveal table th,
+.reveal table td {
+    border-bottom: 0px;
+}
+
+.reveal ul {
+    list-style-type: none;
+}
+
+.reveal li {
+    margin: 20px 0 20px 0;
+}
+
+.reveal ul > li > ul > li {
+    margin: 0px;
+}
+
+/* Palette Mineral Tone
+   ====================
+
+   Source:
+   https://www.design-seeds.com/seasons/winter/mineral-tones/
+*/
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+
+body {
+  background: #E9E9F1;
+  background-color: #E9E9F1;
+}
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #555554;
+}
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-left.enabled {
+  border-right-color: #555554; }
+
+.reveal .controls .navigate-right,
+.reveal .controls .navigate-right.enabled {
+  border-left-color: #555554; }
+
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-up.enabled {
+  border-bottom-color: #555554; }
+
+.reveal .controls .navigate-down,
+.reveal .controls .navigate-down.enabled {
+  border-top-color: #555554; }
+
+.reveal .controls .navigate-left.enabled:hover {
+  border-right-color: #B7B7B7; }
+
+.reveal .controls .navigate-right.enabled:hover {
+  border-left-color: #B7B7B7; }
+
+.reveal .controls .navigate-up.enabled:hover {
+  border-bottom-color: #B7B7B7; }
+
+.reveal .controls .navigate-down.enabled:hover {
+  border-top-color: #B7B7B7; }
+
+/*********************************************
+ * OTHER
+ *********************************************/
+
+.reveal .progress span {
+  background: #555554;
+}
+
+.reveal code {
+  font-size: 80%;
+}
+
+.reveal p,
+.reveal li {
+  color: #080C0B;
+}
+
+.reveal .light {
+  color: lightgrey;
+}
+
+/*********************************************
+ * LINKS
+ *********************************************/
+
+.reveal a {
+  color: #222525;
+}
+
+.reveal a:hover {
+  color: #555554;
+}
+
+/*********************************************
+ * CUSTOM PAGES
+ *********************************************/
+
+#slide-noimageborder img {
+  border: 0;
+  background: inherit;
+  box-shadow: none;
+}
+
+#slide-end li,
+#slide-end td,
+#slide-end p {
+    color: #E9E9F1;
+    font-size: 80%;
+}
+
+#slide-end a {
+  font-size: 80%;
+}
+
+#slide-end a {
+  color: #E2C5B8;
+}
+
+#slide-end a:hover {
+  color: #E5DEDC;
+}

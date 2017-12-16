@@ -1,0 +1,22 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+
+# background : assets/image/background.jpg
+# background-size : cover
+footnote : "© 2017 iCub Facility - Istituto Italiano di Tecnologia"
+# gatoken :
+highlight : monokai-sublime
+logo : assets/image/logo_IIT-iCub.png
+# mathjax : TeX-MML-AM_HTMLorMML-full
+mousewheel : true
+published : false
+rtl : false
+slide-number : true
+theme : white
+theme-override : assets/css/IIT.css
+transition : slide
+vertical-center : true
