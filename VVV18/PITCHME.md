@@ -159,6 +159,6 @@
 
 <p class="light" style="font-size: 40%">Happy holidays! @fa[tree] @fa[glass] @fa[bed]</p>
 
----?image=assets/image/icub.jpg&size=contain
+---?image=assets/image/icub.jpg&size=cover
 
 ## Thank you
