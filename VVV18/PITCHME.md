@@ -61,20 +61,11 @@
 
 ## Aims &nbsp; @fa[binoculars]
 
-<p style="margin: 34px; padding: 1px 0px 1px 0px"></p>
-
-<p class="fragment light">
-    Controller designers <small style="vertical-align: middle;">@fa[heart]</small> Simulink
-</p>
-
-<p style="margin: 34px; padding: 1px 0px 1px 0px"></p>
-
-<ul>
-<li class="fragment">Rapid Prototyping</li>
-<li class="fragment">Robot as a Black-Box</li>
-<li class="fragment">Seamless switch `simulator` <small style="vertical-align: middle;">@fa[arrows-h]</small> `robot`</li>
-<li class="fragment">Debugging ease (scopes!)</li>
-</ul>
+- WB-Toolbox is a Simulink Toolbox for whole-body controllers rapid prototyping
+- Exploits Matlab's easy syntax
+- Exploits Simulink's visual development
+- Seamless integration with YARP robots
+- Powered by iDynTree for Kinematics and Dynamics  
 
 +++
 
@@ -96,6 +87,12 @@
 
 ### Utilities
 <p style="margin: 250px; padding: 1px 0px 1px 0px"></p>
+
++++
+
+### Configuration
+
+![Logo](assets/image/ConfigurationBlock.jpeg)
 
 ---
 
