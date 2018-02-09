@@ -3,7 +3,10 @@
 
 <p style="margin: 59px; padding: 1px 0px 1px 0px"></p>
 
-### Towards Automatic Code Generation
+
+|        |     |
+| :-------------------------:|:------------------------: |
+| <img src="https://raw.githubusercontent.com/diegoferigo/presentations/master/assets/image/logo_IIT-DIC.png" width="180"> |  <img src="https://raw.githubusercontent.com/diegoferigo/presentations/master/assets/image/logo_AnDy.png" width="180"> |
 
 <p style="margin: 59px; padding: 1px 0px 1px 0px"></p>
 
