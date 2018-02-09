@@ -158,3 +158,7 @@
 <p style="margin: 79px; padding: 1px 0px 1px 0px"></p>
 
 <p class="light" style="font-size: 40%">Happy holidays! @fa[tree] @fa[glass] @fa[bed]</p>
+
+---?image=assets/image/icub.jpg&size=contain
+
+## Thank you
