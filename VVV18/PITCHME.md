@@ -92,7 +92,7 @@
 
 ### Configuration
 
-![Logo](assets/image/ConfigurationBlock.jpeg)
+<img src="assets/image/ConfigurationBlock.jpeg" width="300">
 
 ---
 
