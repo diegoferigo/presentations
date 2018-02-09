@@ -92,7 +92,7 @@
 
 ### Configuration
 
-<img src="assets/image/ConfigurationBlock.jpeg" width="300">
+<img src="https://raw.githubusercontent.com/diegoferigo/presentations/master/assets/image/ConfigurationBlock.jpeg" width="300">
 
 ---
 
