@@ -64,8 +64,11 @@
 - WB-Toolbox is a Simulink Toolbox for whole-body controllers rapid prototyping
 - Exploits Matlab's easy syntax
 - Exploits Simulink's visual development
+- Wraps C++ algorithms
+    - iDynTree for Kinematics and Dynamics
+    - YARP libraries
 - Seamless integration with YARP robots
-- Powered by iDynTree for Kinematics and Dynamics  
+- Supports the control of more than one robot
 
 +++
 
@@ -92,7 +95,7 @@
 
 ### Configuration
 
-<img src="https://raw.githubusercontent.com/diegoferigo/presentations/master/assets/image/ConfigurationBlock.jpeg" width="300">
+<img src="https://raw.githubusercontent.com/diegoferigo/presentations/master/assets/image/ConfigurationBlock.jpeg" width="400">
 
 ---
 
