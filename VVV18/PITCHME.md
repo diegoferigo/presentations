@@ -99,7 +99,7 @@
 
 ---
 
-# Examples
+# Examples &nbsp; @fa[sliders]
 
 +++
 
@@ -111,7 +111,7 @@
 
 ---
 
-# Quick hands on
+# Quick hands on &nbsp; @fa[wrench]
 
 - Matlab / Simulink
 - WB-Toolbox
@@ -120,7 +120,7 @@
 
 ---
 
-### @fa[link] Resources
+### Resources &nbsp; @fa[link]
 
 |               |                                                                 |
 | :-----------: | --------------------------------------------------------------- |
