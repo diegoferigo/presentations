@@ -67,7 +67,7 @@
 - Wraps C++ algorithms
     - iDynTree for Kinematics and Dynamics
     - YARP libraries
-- Seamless integration with YARP robots
+- Seamless integration with YARP robots and Gazebo
 - Supports the control of more than one robot
 
 +++
@@ -125,7 +125,7 @@
 |               |                                                                 |
 | :-----------: | --------------------------------------------------------------- |
 | <p style="font-size: 25px;">WB-Toolbox</p>    | <p style="font-size: 20px;">https://github.com/robotology/WB-Toolbox @fa[code-fork] `WB3.0`</p> |
-| <p style="font-size: 25px;">wholeBodyControllers</p>    | <p style="font-size: 20px;">https://github.com/robotology-playground/wholeBodyControllers @fa[code-fork] `WB3.0`</p> |
+| <p style="font-size: 25px;">wholeBodyControllers</p>    | <p style="font-size: 20px;">https://github.com/robotology-playground/wholeBodyControllers @fa[code-fork] `WBT3`</p> |
 | <p style="font-size: 25px;">Release Notes</p> | <p style="font-size: 20px;">https://github.com/robotology/WB-Toolbox/issues/65</p>              |
 
 <p style="margin: 79px; padding: 1px 0px 1px 0px"></p>
