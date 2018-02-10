@@ -121,28 +121,13 @@
     </ul>
 </li>
 
++++
+
+![Video](https://www.youtube.com/watch?v=UXU3KSa201o)
+
 +++?image=assets/image/two_icubs.gif&size=contain
 
 ---
-
-## Future directions &nbsp; @fa[map-signs]
-
-<p style="margin: 69px; padding: 1px 0px 1px 0px"></p>
-
-- Automatic code generation |
-- Blocks C++ Unit Tests |
-
-<p style="margin: 39px; padding: 1px 0px 1px 0px"></p>
-
-+++
-<!-- .slide: id="slide-noimageborder" data-background="#E9E9F1" -->
-
-![CodeGeneration](assets/image/MatlabCodeGeneration.png)
-
----?image=assets/image/MineralTone.png&size=cover
-<!-- .slide: id="slide-end" -->
-
-<p style="margin: 19px; padding: 1px 0px 1px 0px"></p>
 
 ### @fa[link] Resources
 
@@ -161,4 +146,4 @@
 
 ---?image=assets/image/icub.jpg&size=cover
 
-## Thank you
+<h2 style="text-alignment: left;">Than you</p>
