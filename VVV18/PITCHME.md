@@ -53,9 +53,9 @@
 
 |                            |                              |
 | :------------------------: | :--------------------------- |
-| <h2>@fa[binoculars]</h2>   | <h2>Aims</h2>               |
-| <h2>@fa[puzzle-piece]</h2> | <h2>`WBT3` New Features</h2> |
-| <h2>@fa[map-signs]</h2>    | <h2>Future directions</h2>   |
+| <h2>@fa[binoculars]</h2>   | <h2>Aims</h2>                |
+| <h2>@fa[puzzle-piece]</h2> | <h2>Examples</h2>            |
+| <h2>@fa[puzzle-piece]</h2> | <h2>Quick hands on</h2>      |
 
 ---
 
@@ -128,11 +128,3 @@
 <p style="margin: 79px; padding: 1px 0px 1px 0px"></p>
 
 ## Thank you
-
-<p style="margin: 79px; padding: 1px 0px 1px 0px"></p>
-
-<p class="light" style="font-size: 40%">Happy holidays! @fa[tree] @fa[glass] @fa[bed]</p>
-
----?image=assets/image/icub.jpg&size=cover
-
-<h2 style="text-alignment: left;">Than you</p>
