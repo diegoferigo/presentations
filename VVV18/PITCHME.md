@@ -1,8 +1,8 @@
 # WB-Toolbox 3 &nbsp; @fa[object-ungroup]
+
 ###### A Simulink Toolbox for Whole-Body Control
 
 <p style="margin: 29px; padding: 1px 0px 1px 0px"></p>
-
 
 |        |     |
 | :-------------------------:|:------------------------: |
@@ -99,31 +99,9 @@
 
 ---
 
-## `WBT3` New Features &nbsp; @fa[puzzle-piece]
-
-<p style="margin: 29px; padding: 1px 0px 1px 0px"></p>
-
-<ul>
-<li class="fragment">
-    Multiple robots control
-</li>
-<li class="fragment">
-    Self contained (no config files)
-</li>
-<li class="fragment">
-    Under the hood: big code refactoring
-</li>
-<li class="fragment">
-    Deprecated `wholeBodyInterface` [<small style="vertical-align: middle;">@fa[github]</small>](https://github.com/robotology/wholebodyinterface) in favour of:<br>
-    <ul>
-        <li>`iDynTree` [<small style="vertical-align: middle;">@fa[github]</small>](https://github.com/robotology/idyntree)</li>
-        <li>`RemoteControlBoardRemapper` [<small style="vertical-align: middle;">@fa[link]</small>](http://www.yarp.it/classyarp_1_1dev_1_1RemoteControlBoardRemapper.html)</li>
-    </ul>
-</li>
-
 +++
 
-![Video](https://www.youtube.com/watch?v=UXU3KSa201o)
+![Video](https://www.youtube.com/embed/UXU3KSa201o)
 
 +++?image=assets/image/two_icubs.gif&size=contain
 
