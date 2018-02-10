@@ -54,9 +54,8 @@
 |                            |                              |
 | :------------------------: | :--------------------------- |
 | <h2>@fa[binoculars]</h2>   | <h2>Aims</h2>                |
-| <h2>@fa[sliders-h]</h2>    | <h2>Examples</h2>            |
-| <h2>@fa[puzzle-piece]</h2> | <h2>Quick hands on</h2>      |
-| <h2>@fa[wrench]</h2> | <h2>Quick hands on</h2>      |
+| <h2>@fa[sliders]</h2>    | <h2>Examples</h2>              |
+| <h2>@fa[wrench]</h2> | <h2>Quick hands on</h2>            |
 
 ---
 
