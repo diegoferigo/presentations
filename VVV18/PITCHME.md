@@ -107,6 +107,8 @@
 
 +++?image=assets/image/two_icubs.gif&size=contain
 
++++?image=assets/image/TorqueBalancingYoga.gif&size=contain
+
 ---
 
 # Quick hands on
@@ -121,7 +123,7 @@
 ### @fa[link] Resources
 
 |               |                                                                 |
-| ------------- | --------------------------------------------------------------- |
+| :-----------: | --------------------------------------------------------------- |
 | <p style="font-size: 25px;">WB-Toolbox</p>    | <p style="font-size: 20px;">https://github.com/robotology/WB-Toolbox @fa[code-fork] `WB3.0`</p> |
 | <p style="font-size: 25px;">Release Notes</p> | <p style="font-size: 20px;">https://github.com/robotology/WB-Toolbox/issues/65</p>              |
 
