@@ -111,8 +111,8 @@
 
 |               |                                                                 |
 | ------------- | --------------------------------------------------------------- |
-| WB-Toolbox    | https://github.com/robotology/WB-Toolbox @fa[code-fork] `WB3.0` |
-| Release Notes | https://github.com/robotology/WB-Toolbox/issues/65              |
+| WB-Toolbox    | <small>https://github.com/robotology/WB-Toolbox @fa[code-fork] `WB3.0`</small> |
+| Release Notes | <small>https://github.com/robotology/WB-Toolbox/issues/65</small>              |
 
 <p style="margin: 79px; padding: 1px 0px 1px 0px"></p>
 
