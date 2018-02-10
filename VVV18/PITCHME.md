@@ -99,11 +99,22 @@
 
 ---
 
+# Examples
+
 +++
 
 ![Video](https://www.youtube.com/embed/UXU3KSa201o)
 
 +++?image=assets/image/two_icubs.gif&size=contain
+
+---
+
+# Quick hands on
+
+- Matlab / Simulink
+- WB-Toolbox
+- icub-models
+- gazebo
 
 ---
 
