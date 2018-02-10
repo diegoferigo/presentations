@@ -74,7 +74,7 @@
 
 ### Components overview
 
-![Logo](assets/image/WB-Toolbox_components.png)
+![ToolboxComponents](assets/image/WB-Toolbox_components.png)
 
 +++?image=assets/image/WB-Toolbox_StatesActuator_transparent.png&size=contain
 
@@ -117,6 +117,10 @@
 - WB-Toolbox
 - icub-models
 - gazebo
+
++++
+
+![ExampleOnTheFly](assets/image/SimulinkExampleOnTheFly.jpeg)
 
 ---
 
